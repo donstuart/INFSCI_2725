@@ -1,0 +1,33 @@
+House Votes Manually-Constructed Model 
+
+1) Party = 96.1% (418/435)
+
+2) Sensitivity = 258/266 = 96.99%
+   Specifity   = 160/169 = 94.67%
+
+3) Positive Predictive Value = 258/267 = 96.63%
+   Negative Predictive Value = 160/168 = 95.24%
+
+
+House Votes Naive Bayes Algorithm
+
+1) Party = 90.1% (392/435)
+
+2) Sensitivity = 238/252 = 94.44%
+   Specifity   = 154/183 = 84.15%
+
+3) Positive Predictive Value = 238/267 = 89.14%
+   Negative Predictive Value = 154/168 = 91.67%
+
+
+House Votes PC Algorithm
+
+1) Party = 95.9% (417/435)
+
+2) Sensitivity = 256/263 = 97.34%
+   Specifity   = 161/173 = 93.06%
+
+3) Positive Predictive Value = 256/267 = 95.88%
+   Negative Predictive Value = 161/168 = 95.83%
+
+
